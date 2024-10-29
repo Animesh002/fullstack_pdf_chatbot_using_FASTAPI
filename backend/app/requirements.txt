@@ -1,0 +1,6 @@
+fastapi==0.89.0
+uvicorn==0.20.0
+haystack==1.7.0  # Adjust based on your version needs.
+pymupdf==1.19.6  # For PDF extraction.
+sqlalchemy==1.4.39  # Ensure you have SQLAlchemy installed if using it.
+python-multipart==0.0.5  # For handling file uploads.
